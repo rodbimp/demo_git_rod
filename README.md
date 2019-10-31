@@ -1,2 +1,2 @@
 # demo_git_rod
-demo_git_de_roderickt
+demo_git_de_roderick / quelsques rectifications
